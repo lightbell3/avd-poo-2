@@ -1,0 +1,13 @@
+{
+  "name": "avd1_poo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "watch": "^1.0.2"
+  }
+}
